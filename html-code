@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--- BACKGROUND --->
+<div class="container rounded p-3" style="max-width:700px; background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/79937974_R9vOWn1iaVQrXGN.png);">
+  <div class="row no-gutters">
+      <div class="col-md-12 col-12 rounded bg-white p-1 mr-md-2 mr-sm-0 mb-2 mb-md-0" style="color:#000000;">
+            <div class="rounded m-2 bg-light" style="height:600px; background:url('https://f2.toyhou.se/file/f2-toyhou-se/images/78354262_v49yvO7Vvdf9atr.png') center; background-size:cover;"></div>
+            
+<!--- GENERAL BIO --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;General Bio&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;"></span>
+            
+            <!--- THE MEAT --->
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p><br>
+            </div>
+            
+<!--- OTHER INFORMATION --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Other Information&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            
+            <!--- THE MEAT --->
+              <table style="width: 100%;">
+              <p>you can add, remove, or modify any parts from the table if you'd like ^^</p>
+    <tbody>
+      <!--- THE TABLE --->
+      <tr><td><p dir="ltr"><strong>Full Name</p></strong></td><td><p dir="ltr">name</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Age</p></strong></td><td><p dir="ltr">age</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Species</p></strong></td><td><p dir="ltr">species</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Gender</p></strong></td><td><p dir="ltr">gender</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Pronouns</p></strong></td><td><p dir="ltr">pro/nouns</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Orientation</p></strong></td><td><p dir="ltr">orientation</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Height</p></strong></td><td><p dir="ltr">height</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Weight</p></strong></td><td><p dir="ltr">birthday</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Birthday</p></strong></td><td><p dir="ltr">birthday</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Region Elements</p></strong></td><td><p dir="ltr">Element1/Element2</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Magic Elements</p></strong></td><td><p dir="ltr">Element1/Element2</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Affiliation</p></strong></td><td><p dir="ltr">affiliation</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Hobbies</p></td><td><p dir="ltr">hobbies</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Likes</p></strong></td><td><p dir="ltr">likes</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Dislikes</p></strong></td><td><p dir="ltr">dislikes</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Favorite Food</p></strong></td><td>food</td></tr>
+      <tr><td><p dir="ltr"><strong>Favorite Drink</p></strong></td><td>drink</td></tr>
+      <tr><td><p dir="ltr"><strong>Languages</p></strong></td><td><p dir="ltr">languages</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Theme Song</p></strong></td><td>music</td></tr></tbody></table><p><br></p><p><br></p>
+            </div>
+
+<!--- BACKSTORY --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Backstory&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            
+            <!--- THE MEAT --->
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <p>Here you can add the backstory of your character, such as milestones in life, friends and enemies they met, etc. etc.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p><br>
+            </div>
+            
+<!--- RELATIONSHIPS --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Relationships&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <table style="width: 100%;">
+            
+            <!--- THE MEAT --->
+        <p>You can write down what your character thinks of your other characters, including quotes from them and background (like how they met adn developed, as well as a few little tidbits and fun facts). The question mark icon can be found <a href="https://toyhou.se/26032906.character-icons/gallery#79979956">here</a>, and the relationship icons can be found <a href="https://toyhou.se/26032906.character-icons/26575710.relationship-icons">here</a> (feel free to use them or you can use your own icons). Feel free to remove this paragraph once you're done with it. I found that ToyHouse image links work best for editing (Discord image links will inevitably break, so they aren't as reliable).</p>
+    <tbody>
+    
+    <!--- THE HEADINGS --->
+      <tr>
+      <td><p dir="ltr"><strong>Character</p></strong>
+      </td>
+      
+      <td>
+      <p dir="ltr"><strong>What the character thinks of them</p></strong>
+      </td>
+      
+      <td>
+      <p dir="ltr"><strong>A quote from the character</p></strong>
+      </td>
+      
+      <td>
+      <p dir="ltr"><strong>Background</p></strong></td>
+      </tr>
+      
+      <!--- CHARACTER 1 --->
+      <tr>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 1">
+      </td>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981094_g5Fw1wcCD36BA4Y.png" title="This character appears to be umfamiliar with character 1.">
+      </td>
+      
+      <td>
+      <p><em>"Quote"</em></p>
+      </td>
+      
+      <td>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </td>
+      </tr>
+      
+      <!--- CHARACTER 2 --->
+      <tr>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 2">
+      </td>
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981150_lcJ1E6EyeKjDLtf.png" title="This character and character 2 are great friends.">
+      </td>
+      <td>
+      <p><em>"Quote"</em></p>
+      </td>
+      
+      <td>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </td>
+      </tr>
+      
+      <!--- CHARACTER 3 --->
+      <tr>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 3">
+      </td>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981469_V1cgyJf5EMYBNYP.png" title="This character appears to idolize character 3.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981567_FBurPtkY1phgoVA.png" title="Character 3 is an alternate form of this character.">
+      </td>
+      
+      <td>
+      <p><em>"Quote"</em></p>
+      </td>
+      
+      <td>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </td>
+      
+      </tr>
+      
+      <!--- CHARACTER 4 --->
+      <tr>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 4">
+      </td>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981530_W9nvwXFlzma43aD.png" title="This character appears to be neutral to character 4.">
+      </td>
+      
+      <td>
+      <p><em>"Quote"</em></p>
+      </td>
+      
+      <td>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </td>
+      
+      </tr>
+      
+      <!--- CHARACTER 5 --->
+      <tr>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 5">
+      </td>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981192_jTYauCczVc4TrIV.png" title="This character and character 5 are platonic.">
+      </td>
+      
+      <td>
+      <p><em>"Quote"</em></p>
+      </td>
+      
+      <td>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </td>
+      
+      </tr>
+      
+      <!--- CHARACTER 6 --->
+      <tr>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 6">
+      </td>
+      
+      <td>
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981376_AkHjNdI7RwErKxj.png" title="This character and character 6 are friendly rivals.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981558_90c15MOkoEVIS3f.png" title="This character and character 6 are family members.">
+      </td>
+      
+      <td>
+      <p><em>"Quote"</em></p>
+      </td>
+      
+      <td>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </td>
+      
+      </tr>
+      </tbody></table><p><br></p><p></p>
+      
+            </div>
+            
+<!--- FUN FACTS --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Fun Facts&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            
+            <!--- THE MEAT --->
+             <ul>
+             <li>you can add as many fun facts to your character as you would like</li>
+             <li>after all, the more fun facts, the merrier ^^</li>
+             <ul>
+             <li>you can even add little extra tidbits underneath</li>
+             </ul>
+             </ul>
+              </div>
+              
+<!--- DESIGN NOTES --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Design Notes&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            
+            <!--- THE MEAT --->
+             <ul>
+             <li>you can add a few little tidbits of your character design</li>
+             <ul>
+             <li>like which parts of your design are and/or are not optional, colors, texture, etc</li>
+             </ul>
+             <li>you can add as many as you like, though I like to keep my designs more simple ^^</li>
+             </ul>
+              </div>
+
+<!--- PERMISSIONS ---> 
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Permissions&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            
+            <!--- THE MEAT --->
+            <strong> <span style="color:#000000;">
+            You can change the color of the text like <span style="color:#cf0a39;">this&nbsp;</span>or like <span style="color:#4ebc3a;">this.</span> You can add more permissions if you want ^^<br>
+            
+            Offers: <span style="color:#2da2da;">your thoughts</span> - 
+            Dreamie folders: <span style="color:#2da2da;">your thoughts</span> - 
+            Fanart: <span style="color:#2da2da;">your thoughts</span> -
+            Shipping: <span style="color:#2da2da;">your thoughts</span></strong></p></div>
+            
+<!--- CREDIT ---> 
+<div class="container" style="max-width:700px;">
+  <div class="text-right">
+    <a href="https://toyhou.se/Crossf1reCreat1ons" style="font-size:1.4em; color:#7068ff;" data-toggle="tooltip" title="theme by Crossf1reCreat1ons"><i class="fas fa-star-and-crescent"></i></a>
+  </div>
+</div>
+
+</body>
+</html>
