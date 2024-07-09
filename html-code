@@ -10,7 +10,7 @@
             
 <!--- GENERAL BIO --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;General Bio&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;General Bio&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
@@ -19,12 +19,13 @@
             
 <!--- OTHER INFORMATION --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Other Information&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Other Information&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
-              <table style="width: 100%;">
               <p>you can add, remove, or modify any parts from the table if you'd like ^^</p>
+              <table style="width: 100%;">
+              
     <tbody>
       <!--- THE TABLE --->
       <tr><td><p dir="ltr"><strong>Full Name</p></strong></td><td><p dir="ltr">name</p></td></tr>
@@ -34,7 +35,7 @@
       <tr><td><p dir="ltr"><strong>Pronouns</p></strong></td><td><p dir="ltr">pro/nouns</p></td></tr>
       <tr><td><p dir="ltr"><strong>Orientation</p></strong></td><td><p dir="ltr">orientation</p></td></tr>
       <tr><td><p dir="ltr"><strong>Height</p></strong></td><td><p dir="ltr">height</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Weight</p></strong></td><td><p dir="ltr">weight</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Weight</p></strong></td><td><p dir="ltr">birthday</p></td></tr>
       <tr><td><p dir="ltr"><strong>Birthday</p></strong></td><td><p dir="ltr">birthday</p></td></tr>
       <tr><td><p dir="ltr"><strong>Region Elements</p></strong></td><td><p dir="ltr">Element1/Element2</p></td></tr>
       <tr><td><p dir="ltr"><strong>Magic Elements</p></strong></td><td><p dir="ltr">Element1/Element2</p></td></tr>
@@ -45,12 +46,13 @@
       <tr><td><p dir="ltr"><strong>Favorite Food</p></strong></td><td>food</td></tr>
       <tr><td><p dir="ltr"><strong>Favorite Drink</p></strong></td><td>drink</td></tr>
       <tr><td><p dir="ltr"><strong>Languages</p></strong></td><td><p dir="ltr">languages</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Theme Song</p></strong></td><td>music</td></tr></tbody></table><p><br></p><p><br></p>
+      <tr><td><p dir="ltr"><strong>Theme Song</p></strong></td><td>music</td></tr></tbody></table><br>
+      
             </div>
 
 <!--- BACKSTORY --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Backstory&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Backstory&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
             <!--- THE MEAT --->
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
@@ -60,13 +62,14 @@
             
 <!--- RELATIONSHIPS --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Relationships&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Relationships&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
-            <table style="width: 100%;">
+            
             
             <!--- THE MEAT --->
         <p>You can write down what your character thinks of your other characters, including quotes from them and background (like how they met adn developed, as well as a few little tidbits and fun facts). The question mark icon can be found <a href="https://toyhou.se/26032906.character-icons/gallery#79979956">here</a>, and the relationship icons can be found <a href="https://toyhou.se/26032906.character-icons/26575710.relationship-icons">here</a> (feel free to use them or you can use your own icons). Feel free to remove this paragraph once you're done with it. I found that ToyHouse image links work best for editing (Discord image links will inevitably break, so they aren't as reliable).</p>
+        <table style="width: 100%;">
     <tbody>
     
     <!--- THE HEADINGS --->
@@ -209,13 +212,13 @@
       </td>
       
       </tr>
-      </tbody></table><p><br></p><p></p>
+      </tbody></table>
       
             </div>
             
 <!--- FUN FACTS --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Fun Facts&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Fun Facts&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
@@ -230,7 +233,7 @@
               
 <!--- DESIGN NOTES --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Design Notes&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Design Notes&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
@@ -242,10 +245,24 @@
              <li>you can add as many as you like, though I like to keep my designs more simple ^^</li>
              </ul>
               </div>
+              
+<!--- EXTERNAL LINKS --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;External Links&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            
+            <!--- THE MEAT --->
+             <p>Here you can add links related to the character, whether it'd be bios/pages in other websites (for example: ArtFight), or music playlists related ot the character (either on Spotify or YouTube or whatever other platform you use).</p>
+             <ul class="fa-ul">
+                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's an ArtFight Profile)</a></li>
+                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's Music Playlist)</a></li>
+                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's some other page related to the character)</a></li>
+             </ul>
+             </div>
 
 <!--- PERMISSIONS ---> 
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fas fa-star" style="color:#7068ff;"></i>&nbsp;Permissions&nbsp;<i class="fas fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Permissions&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
@@ -260,7 +277,7 @@
 <!--- CREDIT ---> 
 <div class="container" style="max-width:700px;">
   <div class="text-right">
-    <a href="https://toyhou.se/Crossf1reCreat1ons" style="font-size:1.4em; color:#7068ff;" data-toggle="tooltip" title="theme by Crossf1reCreat1ons"><i class="fas fa-star-and-crescent"></i></a>
+    <a href="https://toyhou.se/Crossf1reCreat1ons" style="font-size:1.4em; color:#7068ff;" data-toggle="tooltip" title="theme by Crossf1reCreat1ons"><i class="fa-light fa-moon"></i></a>
   </div>
 </div>
 
