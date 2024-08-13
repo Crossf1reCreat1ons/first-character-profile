@@ -11,16 +11,16 @@
 <!--- GENERAL BIO --->
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;General Bio&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;">
             
             <!--- THE MEAT --->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p><br>
-            </div>
+            </div></span>
             
 <!--- OTHER INFORMATION --->
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Other Information&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
               <p>you can add, remove, or modify any parts from the table if you'd like ^^</p>
@@ -28,34 +28,57 @@
               
     <tbody>
       <!--- THE TABLE --->
-      <tr><td><p dir="ltr"><strong>Full Name</p></strong></td><td><p dir="ltr">name</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Age</p></strong></td><td><p dir="ltr">age</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Species</p></strong></td><td><p dir="ltr">species</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Gender</p></strong></td><td><p dir="ltr">gender</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Pronouns</p></strong></td><td><p dir="ltr">pro/nouns</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Orientation</p></strong></td><td><p dir="ltr">orientation</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Height</p></strong></td><td><p dir="ltr">height</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Weight</p></strong></td><td><p dir="ltr">birthday</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Birthday</p></strong></td><td><p dir="ltr">birthday</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Region Elements</p></strong></td><td><p dir="ltr">Element1/Element2</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Magic Elements</p></strong></td><td><p dir="ltr">Element1/Element2</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Affiliation</p></strong></td><td><p dir="ltr">affiliation</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Hobbies</p></td><td><p dir="ltr">hobbies</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Likes</p></strong></td><td><p dir="ltr">likes</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Dislikes</p></strong></td><td><p dir="ltr">dislikes</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Favorite Food</p></strong></td><td>food</td></tr>
-      <tr><td><p dir="ltr"><strong>Favorite Drink</p></strong></td><td>drink</td></tr>
-      <tr><td><p dir="ltr"><strong>Languages</p></strong></td><td><p dir="ltr">languages</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Theme Song</p></strong></td><td>music</td></tr></tbody></table><br>
+      <tr><td><p dir="ltr"><strong>Full Name</strong></p></td><td><p dir="ltr">name</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Age</strong></p></td><td><p dir="ltr">age</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Species</strong></p></td><td><p dir="ltr">species</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Gender</strong></p></td><td><p dir="ltr">gender</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Pronouns</strong></p></td><td><p dir="ltr">pro/nouns</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Orientation</strong></p></td><td><p dir="ltr">orientation</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Height</strong></p></td><td><p dir="ltr">height</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Weight</strong></p></td><td><p dir="ltr">weight</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Birthday</strong></p></td><td><p dir="ltr">birthday</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Region Elements</strong></p></td><td><p dir="ltr">Element1/Element2</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Magic Elements</strong></p></td><td><p dir="ltr">Element1/Element2</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Affiliation</strong></p></td><td><p dir="ltr">affiliation</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Hobbies</strong></p></td><td><p dir="ltr">hobbies</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Likes</strong></p></td><td><p dir="ltr">likes</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Dislikes</strong></p></td><td><p dir="ltr">dislikes</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Favorite Food</strong></p></td><td>food</td></tr>
+      <tr><td><p dir="ltr"><strong>Favorite Drink</strong></p></td><td>drink</td></tr>
+      <tr><td><p dir="ltr"><strong>Languages</strong></p></td><td><p dir="ltr">languages</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Theme Song</strong></p></td><td>music</td></tr></tbody></table>
       
             </div>
 
+<!--- ABILITIES --->
+            <!--- THE SHELL --->
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Abilities & Skills&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            
+            <!--- THE MEAT --->
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
+            
+            <p>Here you can describe the abilities and skills that your character has. It's pretty self explanitory. You can also add images for more information.</p><br>
+            
+            <h2 class="text-left"><i class="fa-duotone fa-solid fa-shield-halved" style="color:#7068ff;"></i> Ability 1</h2>
+            <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+            <h2 class="text-left"><i class="fa-duotone fa-solid fa-shield-halved" style="color:#7068ff;"></i> Ability 2</h2>
+            <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+            <h2 class="text-left"><i class="fa-duotone fa-solid fa-burst" style="color:#7068ff;"></i> Skill 1</h2>
+            <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+            <h2 class="text-left"><i class="fa-duotone fa-solid fa-burst" style="color:#7068ff;"></i> Skill 2</h2>
+            <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p><br>
+            </div>
+            
 <!--- BACKSTORY --->
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Backstory&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
             <!--- THE MEAT --->
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             <p>Here you can add the backstory of your character, such as milestones in life, friends and enemies they met, etc. etc.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p><br>
             </div>
@@ -64,7 +87,7 @@
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Relationships&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             
             <!--- THE MEAT --->
@@ -74,19 +97,19 @@
     
     <!--- THE HEADINGS --->
       <tr>
-      <td><p dir="ltr"><strong>Character</p></strong>
+      <td><p dir="ltr"><strong>Character</strong></p>
       </td>
       
       <td>
-      <p dir="ltr"><strong>What the character thinks of them</p></strong>
+      <p dir="ltr"><strong>What the character thinks of them</strong></p>
       </td>
       
       <td>
-      <p dir="ltr"><strong>A quote from the character</p></strong>
+      <p dir="ltr"><strong>A quote from the character</strong></p>
       </td>
       
       <td>
-      <p dir="ltr"><strong>Background</p></strong></td>
+      <p dir="ltr"><strong>Background</strong></p></td>
       </tr>
       
       <!--- CHARACTER 1 --->
@@ -219,7 +242,7 @@
 <!--- FUN FACTS --->
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Fun Facts&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             <!--- THE MEAT --->
              <ul>
@@ -234,7 +257,7 @@
 <!--- DESIGN NOTES --->
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Design Notes&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             <!--- THE MEAT --->
              <ul>
@@ -249,30 +272,42 @@
 <!--- EXTERNAL LINKS --->
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;External Links&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             <!--- THE MEAT --->
-             <p>Here you can add links related to the character, whether it'd be bios/pages in other websites (for example: ArtFight), or music playlists related ot the character (either on Spotify or YouTube or whatever other platform you use).</p>
+             <p>Here you can add links related to the character, whether it'd be bios/pages in other websites (for example: ArtFight), or music playlists related ot the character (either on Spotify or YouTube or whatever other platform you use).</p><br>
              <ul class="fa-ul">
                  <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's an ArtFight Profile)</a></li>
-                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's Music Playlist)</a></li>
-                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's some other page related to the character)</a></li>
+                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 2 (say it's Music Playlist)</a></li>
+                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 3 (say it's some other page related to the character)</a></li>
              </ul>
              </div>
 
 <!--- PERMISSIONS ---> 
             <!--- THE SHELL --->
             <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Permissions&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
-            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
+            <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p>
             
             <!--- THE MEAT --->
-            <strong> <span style="color:#000000;">
-            You can change the color of the text like <span style="color:#cf0a39;">this&nbsp;</span>or like <span style="color:#4ebc3a;">this.</span> You can add more permissions if you want ^^<br>
-            
-            Offers: <span style="color:#2da2da;">your thoughts</span> - 
-            Dreamie folders: <span style="color:#2da2da;">your thoughts</span> - 
-            Fanart: <span style="color:#2da2da;">your thoughts</span> -
-            Shipping: <span style="color:#2da2da;">your thoughts</span></strong></p></div>
+            <p><strong> <span style="color:#000000;">
+            You can change the color of the text like <span style="color:#cf0a39;">this&nbsp;</span>or like <span style="color:#4ebc3a;">this.</span> You can add more permissions if you want ^^</p><br>
+            <table style="width: 100%;">
+              
+    <tbody>
+      <!--- THE TABLE --->
+      <tr><td><p dir="ltr"><strong>Offers</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Dreamie Folders</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Fanart</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Shipping</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Gore</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Body Horror</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Artistic Nudity</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Drugs/Smoking/Alcohol</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      </tbody>
+      </table>
+      </strong>
+            </div>
+            </span>
             
 <!--- CREDIT ---> 
 <div class="container" style="max-width:700px;">
