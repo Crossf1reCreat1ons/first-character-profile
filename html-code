@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<!--- BACKGROUND --->
+  <body>
+    <!--- BACKGROUND --->
 <div class="container rounded p-3" style="max-width:700px; background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/79937974_R9vOWn1iaVQrXGN.png);">
   <div class="row no-gutters">
       <div class="col-md-12 col-12 rounded bg-white p-1 mr-md-2 mr-sm-0 mb-2 mb-md-0" style="color:#000000;">
@@ -10,7 +9,7 @@
             
 <!--- GENERAL BIO --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;General Bio&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> General Bio <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-show"><p style="text-align:center;">
             
             <!--- THE MEAT --->
@@ -19,26 +18,27 @@
             
 <!--- OTHER INFORMATION --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Other Information&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Other Information <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;"></span>
             
             <!--- THE MEAT --->
-              <p>you can add, remove, or modify any parts from the table if you'd like ^^</p>
-              <table style="width: 100%;">
+              <p>you can add, remove, or modify any parts from the table if you'd like ^^</p><br>
               
-    <tbody>
+              
+    <table style="width: 100%;">
+        <tbody>
       <!--- THE TABLE --->
       <tr><td><p dir="ltr"><strong>Full Name</strong></p></td><td><p dir="ltr">name</p></td></tr>
       <tr><td><p dir="ltr"><strong>Age</strong></p></td><td><p dir="ltr">age</p></td></tr>
       <tr><td><p dir="ltr"><strong>Species</strong></p></td><td><p dir="ltr">species</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Gender</strong></p></td><td><p dir="ltr">gender</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Gender</strong></p></td><td><p dir="ltr">gender <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/82758168_XodCL4NevOq6jip.png" title="Genderfluid :P (you can add text here if you want)" width="50"></p></td></tr>
       <tr><td><p dir="ltr"><strong>Pronouns</strong></p></td><td><p dir="ltr">pro/nouns</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Orientation</strong></p></td><td><p dir="ltr">orientation</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Orientation</strong></p></td><td><p dir="ltr"><abbr title="You can add preferences or notes if you want">orientation</abbr> <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/82757693_eVTjAHsMKRtTxn2.png" title="Panromantic (or Pansexual whatever you want :P)" width="50"></abbr> <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/82758391_T1JAbSwbfL6srjz.png" title="Demisexual" width="50"></p></td></tr>
       <tr><td><p dir="ltr"><strong>Height</strong></p></td><td><p dir="ltr">height</p></td></tr>
       <tr><td><p dir="ltr"><strong>Weight</strong></p></td><td><p dir="ltr">weight</p></td></tr>
       <tr><td><p dir="ltr"><strong>Birthday</strong></p></td><td><p dir="ltr">birthday</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Region Elements</strong></p></td><td><p dir="ltr">Element1/Element2</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Magic Elements</strong></p></td><td><p dir="ltr">Element1/Element2</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Region Elements</strong></p></td><td><p dir="ltr"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Magic Elements</strong></p></td><td><p dir="ltr"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a> <a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a></p></td></tr>
       <tr><td><p dir="ltr"><strong>Affiliation</strong></p></td><td><p dir="ltr">affiliation</p></td></tr>
       <tr><td><p dir="ltr"><strong>Hobbies</strong></p></td><td><p dir="ltr">hobbies</p></td></tr>
       <tr><td><p dir="ltr"><strong>Likes</strong></p></td><td><p dir="ltr">likes</p></td></tr>
@@ -46,13 +46,13 @@
       <tr><td><p dir="ltr"><strong>Favorite Food</strong></p></td><td>food</td></tr>
       <tr><td><p dir="ltr"><strong>Favorite Drink</strong></p></td><td>drink</td></tr>
       <tr><td><p dir="ltr"><strong>Languages</strong></p></td><td><p dir="ltr">languages</p></td></tr>
-      <tr><td><p dir="ltr"><strong>Theme Song</strong></p></td><td>music</td></tr></tbody></table>
+      <tr><td><p dir="ltr"><strong>Theme Song</strong></p></td><td><a href="LinkGoesHere">music</a></td></tr></tbody></table>
       
             </div>
 
 <!--- ABILITIES --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Abilities & Skills&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Abilities & Skills <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
             <!--- THE MEAT --->
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
@@ -65,17 +65,17 @@
             <h2 class="text-left"><i class="fa-duotone fa-solid fa-shield-halved" style="color:#7068ff;"></i> Ability 2</h2>
             <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
-            <h2 class="text-left"><i class="fa-duotone fa-solid fa-burst" style="color:#7068ff;"></i> Skill 1</h2>
+            <h2 class="text-left"><i class="fa-duotone fa-solid fa-burst" style="color:#7068ff;"></i> Skill 1 <a href="LinkGoesHere" class="image"><img title="ElementGoesHereIfYouWant" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a></h2>
             <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
-            <h2 class="text-left"><i class="fa-duotone fa-solid fa-burst" style="color:#7068ff;"></i> Skill 2</h2>
+            <h2 class="text-left"><i class="fa-duotone fa-solid fa-burst" style="color:#7068ff;"></i> Skill 2 <a href="LinkGoesHere" class="image"><img title="ElementGoesHereIfYouWant" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a></h2>
             <hr class="mx-0 my-1" style="height: 1px; background: #7068ff;">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p><br>
             </div>
             
 <!--- BACKSTORY --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Backstory&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Backstory <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
             <!--- THE MEAT --->
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
@@ -85,13 +85,13 @@
             
 <!--- RELATIONSHIPS --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Relationships&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Relationships <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             
             <!--- THE MEAT --->
-        <p>You can write down what your character thinks of your other characters, including quotes from them and background (like how they met adn developed, as well as a few little tidbits and fun facts). The question mark icon can be found <a href="https://toyhou.se/26032906.character-icons/gallery#79979956">here</a>, and the relationship icons can be found <a href="https://toyhou.se/26032906.character-icons/26575710.relationship-icons">here</a> (feel free to use them or you can use your own icons). Feel free to remove this paragraph once you're done with it. I found that ToyHouse image links work best for editing (Discord image links will inevitably break, so they aren't as reliable).</p>
+        <p>You can write down what your character thinks of your other characters, including quotes from them and background (like how they met adn developed, as well as a few little tidbits and fun facts). The question mark icon can be found <a href="https://toyhou.se/26032906.character-icons/gallery#79979956">here</a>, and the relationship icons can be found <a href="https://toyhou.se/26032906.character-icons/26575710.relationship-icons">here</a> (feel free to use them or you can use your own icons). Feel free to remove this paragraph once you're done with it. I found that ToyHouse image links work best for editing (Discord image links will inevitably break, so they aren't as reliable).</p><br>
         <table style="width: 100%;">
     <tbody>
     
@@ -116,11 +116,11 @@
       <tr>
       
       <td>
-      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 1"></a>
+      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 1" width="500px"></a>
       </td>
       
       <td>
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981094_g5Fw1wcCD36BA4Y.png" title="This character appears to be umfamiliar with character 1.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981094_g5Fw1wcCD36BA4Y.png" title="This character appears to be umfamiliar with character 1." width="500px">
       </td>
       
       <td>
@@ -136,10 +136,10 @@
       <tr>
       
       <td>
-      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 2"></a>
+      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 2" width="500px"></a>
       </td>
       <td>
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981150_lcJ1E6EyeKjDLtf.png" title="This character and character 2 are great friends.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981150_lcJ1E6EyeKjDLtf.png" title="This character and character 2 are great friends." width="500px">
       </td>
       <td>
       <p><em>"Quote"</em></p>
@@ -154,12 +154,12 @@
       <tr>
       
       <td>
-      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 3"></a>
+      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 3" width="500px"></a>
       </td>
       
       <td>
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981469_V1cgyJf5EMYBNYP.png" title="This character appears to idolize character 3.">
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981567_FBurPtkY1phgoVA.png" title="Character 3 is an alternate form of this character.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981469_V1cgyJf5EMYBNYP.png" title="This character appears to idolize character 3." width="250px">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981567_FBurPtkY1phgoVA.png" title="Character 3 is an alternate form of this character." width="250px">
       </td>
       
       <td>
@@ -176,11 +176,11 @@
       <tr>
       
       <td>
-      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 4"></a>
+      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 4" width="500px"></a>
       </td>
       
       <td>
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981530_W9nvwXFlzma43aD.png" title="This character appears to be neutral to character 4.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981530_W9nvwXFlzma43aD.png" title="This character appears to be neutral to character 4." width="500px">
       </td>
       
       <td>
@@ -197,11 +197,11 @@
       <tr>
       
       <td>
-      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 5"></a>
+      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 5" width="500px"></a>
       </td>
       
       <td>
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981192_jTYauCczVc4TrIV.png" title="This character and character 5 are platonic.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981192_jTYauCczVc4TrIV.png" title="This character and character 5 are platonic." width="500px">
       </td>
       
       <td>
@@ -218,12 +218,12 @@
       <tr>
       
       <td>
-      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 6"></a>
+      <a href="Link"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79979956_SRKBcPB0GiFrpEg.png" title="Character 6" width="500px"></a>
       </td>
       
       <td>
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981376_AkHjNdI7RwErKxj.png" title="This character and character 6 are friendly rivals.">
-      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981558_90c15MOkoEVIS3f.png" title="This character and character 6 are family members.">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981376_AkHjNdI7RwErKxj.png" title="This character and character 6 are friendly rivals." width="250px">
+      <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/79981558_90c15MOkoEVIS3f.png" title="This character and character 6 are family members." width="250px">
       </td>
       
       <td>
@@ -241,71 +241,70 @@
             
 <!--- FUN FACTS --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Fun Facts&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Fun Facts <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             <!--- THE MEAT --->
-             <ul>
-             <li>you can add as many fun facts to your character as you would like</li>
-             <li>after all, the more fun facts, the merrier ^^</li>
-             <ul>
-             <li>you can even add little extra tidbits underneath</li>
+             <ul class="fa-ul">
+             <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> you can add as many fun facts to your character as you would like</li>
+             <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> after all, the more fun facts, the merrier ^^</li>
+             <ul class="fa-ul">
+             <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> you can even add little extra tidbits underneath</li>
              </ul>
              </ul>
               </div>
               
 <!--- DESIGN NOTES --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Design Notes&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Design Notes <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             <!--- THE MEAT --->
-             <ul>
-             <li>you can add a few little tidbits of your character design</li>
-             <ul>
-             <li>like which parts of your design are and/or are not optional, colors, texture, etc</li>
+             <ul class="fa-ul">
+             <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> you can add a few little tidbits of your character design</li>
+             <ul class="fa-ul">
+             <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> like which parts of your design are and/or are not optional, colors, texture, etc</li>
              </ul>
-             <li>you can add as many as you like, though I like to keep my designs more simple ^^</li>
+             <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> you can add as many as you like, though I like to keep my designs more simple ^^</li>
              </ul>
               </div>
               
 <!--- EXTERNAL LINKS --->
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;External Links&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> External Links <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p style="text-align:center;">
             
             <!--- THE MEAT --->
-             <p>Here you can add links related to the character, whether it'd be bios/pages in other websites (for example: ArtFight), or music playlists related ot the character (either on Spotify or YouTube or whatever other platform you use).</p><br>
+             <p>Here you can add links related to the character, whether it'd be bios/pages in other websites (for example: ArtFight), or music playlists related ot the character (either on Spotify or YouTube or whatever other platform you use).</p>
              <ul class="fa-ul">
-                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's an ArtFight Profile)</a></li>
-                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 2 (say it's Music Playlist)</a></li>
-                 <li><i class="fa-regular fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 3 (say it's some other page related to the character)</a></li>
+                 <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 1 (say it's an ArtFight Profile)</a></li>
+                 <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 2 (say it's Music Playlist)</a></li>
+                 <li><i class="fa-solid fa-star" style="color:#7068ff;"></i> <a href="LinkHere">Link 3 (say it's some other page related to the character)</a></li>
              </ul>
              </div>
 
 <!--- PERMISSIONS ---> 
             <!--- THE SHELL --->
-            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i>&nbsp;Permissions&nbsp;<i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
+            <h2 class="text-center m-0"><i class="fa-regular fa-star" style="color:#7068ff;"></i> Permissions <i class="fa-regular fa-star" style="color:#7068ff;"></i></h2>
             <span style="color:#000000;"><div class="fr-spoiler fr-spoiler-hide"><p>
             
             <!--- THE MEAT --->
-            <p><strong> <span style="color:#000000;">
-            You can change the color of the text like <span style="color:#cf0a39;">this&nbsp;</span>or like <span style="color:#4ebc3a;">this.</span> You can add more permissions if you want ^^</p><br>
+            <p>
+            You can change the color of the text like <span style="color:#cf0a39;"><strong>this</strong> </span>or like <span style="color:#4ebc3a;"><strong>this.</strong></span> You can add more permissions if you want ^^</p><br>
             <table style="width: 100%;">
               
     <tbody>
       <!--- THE TABLE --->
-      <tr><td><p dir="ltr"><strong>Offers</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Dreamie Folders</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Fanart</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Shipping</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Gore</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Body Horror</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Artistic Nudity</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
-      <tr><td><p dir="ltr"><strong>Drugs/Smoking/Alcohol</strong></p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Offers</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Dreamie Folders</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Fanart</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Shipping</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Gore</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Body Horror</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Artistic Nudity</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
+      <tr><td><p dir="ltr">Drugs/Smoking/Alcohol</p></td><td><p dir="ltr"><strong><span style="color:#2da2da;">YourThoughts</span></strong></p></td></tr>
       </tbody>
       </table>
-      </strong>
             </div>
             </span>
             
@@ -315,6 +314,8 @@
     <a href="https://toyhou.se/Crossf1reCreat1ons" style="font-size:1.4em; color:#7068ff;" data-toggle="tooltip" title="theme by Crossf1reCreat1ons"><i class="fa-light fa-moon"></i></a>
   </div>
 </div>
-
-</body>
+</div>
+</div>
+</div>
+  </body>
 </html>
